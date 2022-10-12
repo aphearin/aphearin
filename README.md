@@ -1,6 +1,6 @@
 # About me
 
-I am an Assistant Physicist in the Cosmological Physics \& Advanced Computing (CPAC) Group at Argonne National Laboratory. I study cosmology and astrophysics using numerical simulations, theoretical models of cosmological structure growth, machine learning techniques, and observations from large-area galaxy surveys.
+I am a Physicist in the Cosmological Physics \& Advanced Computing (CPAC) Group at Argonne National Laboratory. I study cosmology and astrophysics using numerical simulations, theoretical models of cosmological structure growth, machine learning techniques, and observations from large-area galaxy surveys.
 
 I am the lead developer of [Halotools](https://halotools.readthedocs.io/en/latest/), an open-source python package for creating model universes of galaxies. I am also a member of several large collaborative experiments designed to measure dark energy and dark matter, including the Dark Energy Spectroscopic Instrument [(DESI)](https://www.desi.lbl.gov/), and the Vera Rubin Observatory Legacy Survey of Space and Time Dark Energy Science Collaboration [(LSST DESC)](https://lsstdesc.org/).
 
